@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "displayName": "Serializable Dictionary",
   "description": "This is a serializable dictionary",
-  "unity": "2020.3.11",
+  "unity": "2020.3",
   "unityRelease": "0b5",
   "license": "MIT",
   "dependencies": {
