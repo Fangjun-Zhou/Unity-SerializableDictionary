@@ -9,6 +9,10 @@ This project provides a generic dictionary class and its custom property drawer 
 
 ![General screenshot](docs/SerializableDictionary_screenshot1.png)
 
+## Package
+
+`https://github.com/Fangjun-Zhou/Unity-SerializableDictionary.git#upm-serializabledictionary`
+
 ## Features
 
 - It inherits from `Dictionary<TKey, TValue>`
