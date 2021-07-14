@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Package/Example/SerializableDicitonary Example.unity
+    guid: 6c0758ade4ba74b7493ce3806fa2f38b
+  m_configObjects: {}
