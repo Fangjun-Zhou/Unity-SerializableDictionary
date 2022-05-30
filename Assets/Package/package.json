@@ -1,6 +1,6 @@
 {
-  "name": "com.serializabledictionary",
-  "version": "0.0.2",
+  "name": "com.fintokmak.serializabledictionary",
+  "version": "0.1.0",
   "displayName": "Serializable Dictionary",
   "description": "This is a serializable dictionary",
   "unity": "2020.3",
@@ -11,6 +11,6 @@
   "keywords": [
   ],
   "author": {
-    "name": "Other"
+    "name": "azixMcAze"
   }
 }
